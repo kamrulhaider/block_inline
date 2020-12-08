@@ -1,0 +1,29 @@
+table{
+	border: 1px solid red;
+	width: 100%;
+}
+tr{
+	border: 1px solid red;
+}
+td{
+	border: 1px solid red;
+	height: 25px;
+	width: 50px;
+	text-align: center;
+}
+li{
+	display: inline-block;
+	border: 3px solid black;
+}
+.box{
+	width: 100px;
+	height: 100px;
+}
+.box1{
+	background-color: red;
+	padding: 10px;
+}
+.box2{
+	background-color: green;
+	margin: 10px;
+}
